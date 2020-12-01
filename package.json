@@ -1,0 +1,29 @@
+{
+  "name": "cucumber_selenium_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavyashree088/cucumber_selenium_assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kavyashree088/cucumber_selenium_assignment/issues"
+  },
+  "homepage": "https://github.com/kavyashree088/cucumber_selenium_assignment#readme",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "chromedriver": "^87.0.0",
+    "cucumber-assert": "^2.0.1",
+    "geckodriver": "^1.21.0",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.0.0-rc.0"
+  }
+}
